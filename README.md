@@ -7,4 +7,4 @@
 **O código foi desenvolvido em C++ para otimizar as seguintes funções:
 [Griewank Function](https://www.sfu.ca/~ssurjano/griewank.html) e [Six-Hump Camel Function](https://www.sfu.ca/~ssurjano/camel6.html)**
 
-Este algoritmo foi desenvolvido em conjunto com meu amigo **Danilo Oliveira** durante o segundo periodo do curso de Análise e Desenvolvimentos de Sistemas.
+Este algoritmo foi desenvolvido em conjunto com meu colega de classe **Danilo Oliveira** durante o segundo periodo do curso de Análise e Desenvolvimentos de Sistemas.
